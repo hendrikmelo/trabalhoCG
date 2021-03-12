@@ -1,5 +1,5 @@
 # trabalhoCG
 Trabalho de CG em OpenGL 3D / C++
 
-USAGE:
+USAGE: </br>
 -Necessário biblioteca GLUT
